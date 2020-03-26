@@ -17,6 +17,7 @@ function draw() {
   }
 }
 
+
 function drawGradient(x, y) {
   let radius = dim / 2;
   let h = random(0, 360);
